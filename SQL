@@ -1,0 +1,6 @@
+#sqlqueries 
+hashtag#sqlserver 
+hashtag#sqlskills 
+hashtag#datacleaning 
+hashtag#UpdatingoData
+updated the date format of a housing agency using Microsoft SQL server database 
